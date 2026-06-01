@@ -32,7 +32,7 @@ SmartExpense is a responsive finance dashboard that helps users track income, ex
 
 ## Live Demo
 
-🔗 
+🔗 https://arnabroy28.github.io/SmartExpense-Personal-Finance-Analytics-Dashboard/
 
 ## Future Enhancements
 
